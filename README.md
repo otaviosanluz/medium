@@ -1,6 +1,6 @@
 # medium
 
-[Blog](https://otaviosanluz.medium.com/)
+[Blog](https://medium.com/otavio-santos)
 
 Repositório destinado aos conteúdos compartilhados em meu blog no medium.
  
